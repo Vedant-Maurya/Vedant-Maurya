@@ -1,3 +1,4 @@
+![logo](https://github.com/Vedant-Maurya/Vedant-Maurya/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Vedant Maurya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
